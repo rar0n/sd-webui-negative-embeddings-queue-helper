@@ -19,7 +19,7 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
 1. Locate the **Script** drop-down menu in the bottom left corner of Automatic1111 web UI.
 2. Select **Queue selected Embeddings (batch) - Negative Prompt**
 3. Under **Select Directory** select the folders containing the Embeddings you want to use. Or click "All".
-   + I strongly suggest to use **Use Custom Embeddings path** instead (Depending how many embeddings you have or your folder structure)
+   + I suggest to use **Use Custom Embeddings path** instead (Depending how many embeddings you have or your folder structure)
        + Paste in your folder path of the category of Embedding(s) you want to test / use.
 4. Select the **Embeddings** you want to use (or click "All").
 5. Generate.
