@@ -11,10 +11,6 @@ Only tested on my Linux Mint system. Not tested on Windows or Mac.
 
 I don't really know Python, so I enlisted some help from Claude 3.5 Sonnet. Basically this is Claude's rewrite of Yinzo's Lora-queue-helper (or of my fork, but that's also Claude's work, mostly).
 
-### Bugs
-
- - The "Use same random seed" checkbox don't actually do anything. I'll remove it later :)
-
 ## Install
 To install from webui, go to Extensions -> Install from URL, paste https://github.com/rar0n/sd-webui-negative-embeddings-queue-helper into the URL field, and press Install.
 Then go to Extensions -> Installed tab, Press "Apply and restart UI".
