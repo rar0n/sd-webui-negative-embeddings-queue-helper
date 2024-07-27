@@ -23,7 +23,7 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
        + Paste in your folder path of the category of Embedding(s) you want to test / use.
 4. Find the **Embeddings** section below. If you've got a lot of folders, you have to scroll down past the end to reach it
 5.  Select the **Embeddings** you want to use (or click "All").
-   + Suggest to only select negative embeddings, as they will be added  to the negative prompt.
+6.     + Suggest to only select negative embeddings, as they will be added  to the negative prompt.
 7. Generate.
 
 ## Tips
