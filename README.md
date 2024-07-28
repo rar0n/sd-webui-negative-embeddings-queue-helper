@@ -20,12 +20,13 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
 2. Select **Queue selected Embeddings (batch) - Negative Prompt**
 3. Under **Select Directory** select the folders containing the Embeddings you want to use. Or click "All".
    + I suggest to use **Use Custom Embeddings path** (Depending how many embeddings you have or your folder structure)
-       + Paste in your folder path of the category of Embedding(s) you want to test / use.
+      + Paste in your folder path of the category of Embeddings you want to test / use.
 4. Find the **Embeddings** section below.
-     + If you've got a lot of folders, you have to scroll down past the "Select Directory" section end to reach it.
+   + If you've got a lot of folders, you have to scroll down past the "Select Directory" section end to reach it.
 6.  Select the **Embedding**(s) you want to use (or click "All").
-     + Suggest to only select negative embeddings, as they will be added to the negative prompt.
-8. Generate.
+   + Suggest to only select negative embeddings, as they will be added to the negative prompt.
+   + But ofc feel free to experiment :)
+8. Generate!
 
 ## Tips
 
