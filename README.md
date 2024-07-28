@@ -25,7 +25,7 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
    + At least one Embeddings folder has to be selected first for the Embeddings section to show up.
    + If you've got a lot of folders, you have to scroll down past the **Select Directory** section to reach it
    + Suggest to only select negative embeddings, as they will be added to the negative prompt.
-   + But ofc feel free to experiment :)
+      + But ofc feel free to experiment :)
 5. **Generate!**
 
 ## Tips
